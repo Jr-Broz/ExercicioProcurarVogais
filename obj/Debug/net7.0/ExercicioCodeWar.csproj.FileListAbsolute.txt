@@ -1,0 +1,14 @@
+C:\Users\kugao\Desktop\ExercicioCodeWar\bin\Debug\net7.0\ExercicioCodeWar.exe
+C:\Users\kugao\Desktop\ExercicioCodeWar\bin\Debug\net7.0\ExercicioCodeWar.deps.json
+C:\Users\kugao\Desktop\ExercicioCodeWar\bin\Debug\net7.0\ExercicioCodeWar.runtimeconfig.json
+C:\Users\kugao\Desktop\ExercicioCodeWar\bin\Debug\net7.0\ExercicioCodeWar.dll
+C:\Users\kugao\Desktop\ExercicioCodeWar\bin\Debug\net7.0\ExercicioCodeWar.pdb
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.AssemblyInfo.cs
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.dll
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\refint\ExercicioCodeWar.dll
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.pdb
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ExercicioCodeWar.genruntimeconfig.cache
+C:\Users\kugao\Desktop\ExercicioCodeWar\obj\Debug\net7.0\ref\ExercicioCodeWar.dll
