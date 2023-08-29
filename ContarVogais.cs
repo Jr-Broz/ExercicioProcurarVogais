@@ -24,13 +24,6 @@ public void mostraVogal(){
     }
  }
        
-    Console.WriteLine($"Numero total de vogais : {totalDeVogais}");
-       
+    Console.WriteLine($"Numero total de vogais : {totalDeVogais}");      
 }
-
-
-
-
-
-
 }
